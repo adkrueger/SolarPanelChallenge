@@ -1,0 +1,8 @@
+# macOS metadata
+.DS_Store
+
+# MATLAB generated files
+*.asv
+*.m~
+*.autosave
+slprj/
